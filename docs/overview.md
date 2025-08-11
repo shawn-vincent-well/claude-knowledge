@@ -60,6 +60,8 @@ Install the Claude plugin.  (you can just run Claude in a terminal and it will d
 
 ### Essential Tips
 
+**Tip:** I hear a lot of people talking about learning to 'trust' coding agents.  DO NOT TRUST the AI.  It WILL make mistakes.  Think of it like hiring a new offshore coding team.  You should not trust them at first either.  Put checks and balances.  Automated reviews.  Strict quality checks.  Put processes around so you do not HAVE to trust them, that you will catch the errors that they will inevitably create.
+
 **Tip:** If you see it doing something you don't like, hit `[ESC]` and tell it to undo stuff or do something different.  Do this liberally.
 
 **Tip:** Use revision control.  Commit frequently, get used to throwing away lots of Claude-generated code.
