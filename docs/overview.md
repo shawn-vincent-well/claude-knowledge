@@ -12,6 +12,7 @@
 * **Windows users**: Install WSL2 (Windows Subsystem for Linux) first
   * Work directly in WSL filesystems for optimal performance
   * WSL→Windows filesystem access is extremely slow - avoid mounting Windows drives
+* **Mac and Linux users**: You're fine.
 
 ### Claude Code CLI Installation
 
